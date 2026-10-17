@@ -25,7 +25,7 @@ export const site = {
   description:
     "Chirag Patil is a software engineer focused on backend systems, distributed systems, cloud infrastructure and applied AI. Previously at Amazon Web Services.",
   // TODO: set your deployed URL (also used for sitemap, canonical and Open Graph)
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://your-domain.vercel.app",
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://chirag-patil.vercel.app",
   // TODO: add your real resume PDF at /public/resume.pdf
   resume: { href: "/resume.pdf", fileName: "Chirag-Patil-Resume.pdf", updated: "TODO: add date" },
   rotatingLines: [
